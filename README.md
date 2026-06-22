@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ankita-portfolio.vercel.app/" target="_blank" aria-label="Portfolio">
+  <a href="https://ankitakhushi-portfolio.vercel.app/" target="_blank" aria-label="Portfolio">
     <img src="https://img.shields.io/badge/PORTFOLIO-0B3D91?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
   </a>
   <a href="https://github.com/ankita-auth/ankita-auth/blob/main/assets/resume.pdf" target="_blank" aria-label="Resume">
