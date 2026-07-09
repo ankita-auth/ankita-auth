@@ -1,7 +1,3 @@
-<!-- STRICTLY PROFESSIONAL GITHUB PROFILE README -->
-<!-- Author: Ankita Singh -->
-<!-- Focus: AI Research & Software Engineering -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0B3D91&height=150&section=header&text=ANKITA%20SINGH&fontSize=42&fontColor=ffffff&desc=Software%20Engineering%20%E2%80%A2%20Artificial%20Intelligence%20%E2%80%A2%20Aerospace&descAlignY=68&descSize=18" />
 </p>
