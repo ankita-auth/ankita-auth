@@ -141,7 +141,7 @@ style F fill:#1a1a1a,stroke:#00F2FF,color:#fff
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ankita-auth&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ankita-auth&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
