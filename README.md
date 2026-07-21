@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0B3D91&height=150&section=header&text=ANKITA%20SINGH&fontSize=42&fontColor=ffffff&desc=Software%20Engineering%20%E2%80%A2%20Artificial%20Intelligence%20%E2%80%A2%20System%20Design&descAlignY=68&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0B3D91&height=150&section=header&text=ANKITA%20SINGH&fontSize=42&fontColor=ffffff&desc=Software%20Engineering%20%E2%80%A2%20Artificial%20Intelligence%20%E2%80%A2%20Aerospace&descAlignY=68&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=900&height=50&duration=5000&pause=500&color=00F2FF&lines=Designing+Intelligent+Systems;Building+Software+That+Scales;Solving+Problems+Through+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=900&height=50&duration=3000&pause=300&color=00F2FF&lines=Designing+Systems+That+Think;Building+Software+That+Scales;Aiming+Beyond+Earth" />
 </p>
 
 <p align="center">
