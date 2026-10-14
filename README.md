@@ -1,13 +1,12 @@
-<!-- @astro.ankita -->
+ <!-- @astro.ankita -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0B3D91&height=150&section=header&text=ANKITA%20SINGH&fontSize=42&fontColor=ffffff&desc=Software%20Engineering%20%E2%80%A2%20Artificial%20Intelligence%20%E2%80%A2%20Aerospace&descAlignY=68&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0B3D91&height=150&section=header&text=ANKITA%20SINGH&fontSize=42&fontColor=ffffff&desc=Software%20Engineering%20%E2%80%A2%20Artificial%20Intelligence%20%E2%80%A2%20Aerospace&descAlignY=68&descSize=18" alt="Ankita Singh - Software Engineering, Artificial Intelligence, Aerospace" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=900&height=50&duration=3000&pause=300&color=00F2FF&lines=Designing+Systems+That+Think;Building+Software+That+Scales;Aiming+Beyond+Earth" />
-</p>
-
-<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=900&height=30&duration=3000&pause=300&color=00F2FF&lines=Designing+Systems+That+Think;Building+Software+That+Scales;Aiming+Beyond+Earth" alt="Designing Systems That Think; Building Software That Scales; Aiming Beyond Earth" />
+</p><p align="center">
   <a href="https://ankitakhushi-portfolio.vercel.app/" target="_blank" aria-label="Portfolio">
     <img src="https://img.shields.io/badge/PORTFOLIO-0B3D91?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
   </a>
@@ -30,8 +29,7 @@
 
 ## PROFESSIONAL_SUMMARY
 
-> **STATEMENT**: Computer Science undergraduate with interests in **Software Engineering**, **Artificial Intelligence**, and **Aerospace Technology**. Passionate about designing reliable software, understanding intelligent systems, and applying engineering principles to real-world challenges.
-
+> **STATEMENT:** Computer Science undergraduate with interests in **Software Engineering**, **Artificial Intelligence**, and **Aerospace Technology**. Passionate about designing reliable software, understanding intelligent systems, and applying engineering principles to real-world challenges.
 
 ### TECHNICAL_OBJECTIVES
 
@@ -51,11 +49,9 @@ graph LR
     B --> C["Modular Implementation"]
     C --> D["Testing & Validation"]
     D --> E["Deployment & Monitoring"]
-    style A fill:#1a1a1a,stroke:#00F2FF,color:#fff
-    style B fill:#1a1a1a,stroke:#00F2FF,color:#fff
-    style C fill:#1a1a1a,stroke:#00F2FF,color:#fff
-    style D fill:#1a1a1a,stroke:#00F2FF,color:#fff
-    style E fill:#1a1a1a,stroke:#00F2FF,color:#fff
+
+    classDef stage fill:#1a1a1a,stroke:#00F2FF,color:#fff
+    class A,B,C,D,E stage
 ```
 
 ---
@@ -79,18 +75,16 @@ graph LR
   </tr>
   <tr>
     <td width="50%" valign="top">
-<h3>CS_FUNDAMENTALS</h3>
-
-<img src="https://img.shields.io/badge/CN-Computer%20Networks-0B3D91?style=flat-square" alt="CN" />
-<img src="https://img.shields.io/badge/OS-Operating%20Systems-0B3D91?style=flat-square" alt="OS" />
-<img src="https://img.shields.io/badge/DBMS-Database%20Management%20System-0B3D91?style=flat-square" alt="DBMS" />
+      <h3>CS_FUNDAMENTALS</h3>
+      <img src="https://img.shields.io/badge/CN-Computer%20Networks-0B3D91?style=flat-square" alt="CN" />
+      <img src="https://img.shields.io/badge/OS-Operating%20Systems-0B3D91?style=flat-square" alt="OS" />
+      <img src="https://img.shields.io/badge/DBMS-Database%20Management%20System-0B3D91?style=flat-square" alt="DBMS" />
     </td>
     <td width="50%" valign="top">
-    <h3>TOOLS</h3>
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+      <h3>TOOLS</h3>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
     </td>
   </tr>
 </table>
@@ -103,26 +97,24 @@ graph LR
 
 ```mermaid
 graph LR
+    A([User]) --> B[GemmaX ChatCore]
 
-A([User])
---> B[GemmaX ChatCore]
+    B --> C[Text Chat]
+    B --> D[Image Understanding]
+    B --> E[Function Calling]
 
-B --> C[Text Chat]
-B --> D[Image Understanding]
-B --> E[Function Calling]
+    C --> F{Inference Engine}
+    D --> F
+    E --> F
 
-C --> F{Inference Engine}
-D --> F
-E --> F
+    F --> G[Cloud Models]
+    F --> H[Local Models]
 
-F --> G[Cloud Models]
-F --> H[Local Models]
+    G --> I([AI Response])
+    H --> I
 
-G --> I([AI Response])
-H --> I
-
-style B fill:#1a1a1a,stroke:#00F2FF,color:#fff
-style F fill:#1a1a1a,stroke:#00F2FF,color:#fff
+    classDef component fill:#1a1a1a,stroke:#00F2FF,color:#fff
+    class B,F component
 ```
 
 ### Technical Implementation Details
@@ -152,7 +144,7 @@ style F fill:#1a1a1a,stroke:#00F2FF,color:#fff
   <i>
     "When you look at the stars and the galaxy, you feel that you are not just from any particular piece of land, but from the solar system."
   </i>
-  <br>
+  <br />
   <sub>— Kalpana Chawla</sub>
 </p>
 
